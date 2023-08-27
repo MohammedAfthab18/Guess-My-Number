@@ -11,8 +11,6 @@
 <br>
 
 <div align="center">
-  <a href="#demo">View Demo</a>
-  ·
   <a href="#about-the-project">About The Project</a>
   ·
   <a href="#how-to-play">How To Play</a>
