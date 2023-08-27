@@ -1,7 +1,7 @@
 <h1 align="center">Guess My Number Game 🎮</h1>
 
 <p align="center">
-  <img src="screenshot.png" alt="Game Screenshot" width="600">
+  <img src="guess_game.png" alt="Game Screenshot" width="600">
 </p>
 
 <div align="center">
